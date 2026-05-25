@@ -1,4 +1,4 @@
-#Product Review and Analysis
+# Product Review and Analysis
 
 Portfolio project for a data analyst role. It combines real Amazon Reviews 2023 data with simulated business experiment fields to demonstrate product review analytics, sentiment analysis, customer segmentation, SQL reporting, A/B testing, Power BI dashboard planning, and executive summaries.
 
