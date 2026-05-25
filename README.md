@@ -95,18 +95,6 @@ python src/run_analytics.py
 - `data/processed/ab_test_results.csv`
 - `reports/executive_summary.md`
 
-## Dashboard Pages To Build In Power BI
-
-1. Executive Overview: revenue, average rating, review volume, sentiment mix, return rate
-2. Product Intelligence: product-level rating, sentiment, issues, return risk
-3. Customer Segments: loyal customers, at-risk customers, high-value detractors
-4. A/B Test Results: control vs treatment conversion, retention, statistical significance
-5. Review Explorer: review text, sentiment, topic, product, verified purchase, helpful votes, and date filters
-
-## Recommended Resume Project Title
-
-**AI-Powered Product Review Intelligence System | Amazon Reviews 2023, SQL, Python, Power BI, Sentiment Analysis, A/B Testing**
-
 ## How To Explain It In Interviews
 
 > I built an end-to-end analytics project using real Amazon Reviews 2023 data. I prepared review and product metadata, engineered business-ready order and customer tables, scored sentiment, segmented customers, wrote SQL analytics, simulated an A/B testing framework, and designed a Power BI dashboard with executive recommendations. The A/B test fields are simulated because public review datasets do not include private experiment assignment or conversion tracking.
