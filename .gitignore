@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/amazon_reviews_2023/
+data/processed/*.sqlite
+data/processed/*.sqlite-journal
