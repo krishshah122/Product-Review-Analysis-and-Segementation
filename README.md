@@ -94,7 +94,3 @@ python src/run_analytics.py
 - `data/processed/product_sentiment_summary.csv`
 - `data/processed/ab_test_results.csv`
 - `reports/executive_summary.md`
-
-## How To Explain It In Interviews
-
-> I built an end-to-end analytics project using real Amazon Reviews 2023 data. I prepared review and product metadata, engineered business-ready order and customer tables, scored sentiment, segmented customers, wrote SQL analytics, simulated an A/B testing framework, and designed a Power BI dashboard with executive recommendations. The A/B test fields are simulated because public review datasets do not include private experiment assignment or conversion tracking.
